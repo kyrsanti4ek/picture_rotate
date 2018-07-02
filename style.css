@@ -1,0 +1,36 @@
+#header{
+	width: 100%;
+	height: 300px;
+	background-color: rgb(148, 199, 199);
+	
+}
+
+
+#dev {
+	position: absolute;
+	top: 350px;
+	left: 140px;
+	z-index: 9;
+  }
+
+ #devDiv {
+	position: relative;
+	background: url("dev-cry.png");
+	top: 650px;
+	left: 140px;
+  }
+
+
+
+
+#sun:hover{ 
+	transform: translate3d(3.64px,2.41px,0px);
+}
+#cloud:hover{ 
+	transform: translate3d(-4.64px,2.41px,0px);
+	}
+
+	
+
+
+		
